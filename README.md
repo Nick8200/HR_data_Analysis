@@ -136,10 +136,14 @@
 
 ### Model Performance Metrics:
 * Accuracy: 0.875
-* Precision: [Precision Score]
-* Recall: [Recall Score]
-* F1 Score: [F1 Score]
-* Confusion Matrix:
+* Precision: 0.86
+* Recall: 0.88
+* F1 Score: 0.88
+* Confusion Matrix:[[358  12]
+                      [ 43  28]]
+
+  ![download (5)](https://github.com/user-attachments/assets/0e7a83a5-f760-4693-a6a6-f971e55f3c52)
+
 
 ## ROC Curve:
 
