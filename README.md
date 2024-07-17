@@ -15,7 +15,9 @@
 
 4.Model Building and Evaluation
 
-5.Conclusion and Insights
+5.Model Prediction and Results
+
+6.Conclusion and Insights
 
 ## Data
 ### The dataset used in this project contains the following columns:
@@ -129,8 +131,26 @@
 * Training the logistic regression model.
 * Evaluating model performance on the test set.
 
+## Model Prediction and Results
+### After training and evaluating the logistic regression model, we use it to make predictions on the test set. The results are summarized below:
+
+### Model Performance Metrics:
+* Accuracy: 0.875
+* Precision: [Precision Score]
+* Recall: [Recall Score]
+* F1 Score: [F1 Score]
+* Confusion Matrix:
+
+## ROC Curve:
+
+### Key Insights from Model Predictions:
+* Employees working overtime are more likely to leave.
+* Job satisfaction and income levels significantly impact attrition.
+* Younger employees are more prone to leave compared to older employees.
+
 ## Conclusion and Insights
-### In this section, we summarize the findings from our analysis and the performance of our predictive model. Key insights include:
+
+## In this section, we summarize the findings from our analysis and the performance of our predictive model. Key insights include:
 
 * The most influential factors contributing to employee attrition.
 * Recommendations for reducing attrition based on model insights.
